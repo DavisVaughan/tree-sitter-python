@@ -1,6 +1,6 @@
-examples/crlf-line-endings.py eol=crlf
-examples/python2-grammar-crlf.py eol=crlf
-examples/python3-grammar-crlf.py eol=crlf
+examples/crlf-line-endings.py eol=lf
+examples/python2-grammar-crlf.py eol=lf
+examples/python3-grammar-crlf.py eol=lf
 
 src/*.json linguist-generated
 src/parser.c linguist-generated
