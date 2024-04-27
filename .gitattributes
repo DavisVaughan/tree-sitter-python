@@ -1,5 +1,3 @@
-* text eol=lf
-
 examples/crlf-line-endings.py eol=crlf
 examples/python2-grammar-crlf.py eol=crlf
 examples/python3-grammar-crlf.py eol=crlf
